@@ -617,7 +617,5 @@ exe UnimpairedMapTransform('string_encode','[C')
 exe UnimpairedMapTransform('string_decode',']C')
 exe UnimpairedMapTransform('url_encode','[u')
 exe UnimpairedMapTransform('url_decode',']u')
-exe UnimpairedMapTransform('xml_encode','[x')
-exe UnimpairedMapTransform('xml_decode',']x')
 
 " vim:set sw=2 sts=2:
